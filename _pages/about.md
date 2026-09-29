@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Wuhan University](https://www.whu.edu.cn/). 
+I'm a first-year master's student at [Peking University](https://www.pku.edu.cn/).
 
-My research interest includes computer vision, machine learning, and robotics.
+My research interests are robotics and semantic mapping.
 
-[Email](mailto:2022302121109@whu.edu.cn) / [Github](https://github.com/zjy109) 
+[Email](mailto:2601212996@stu.pku.edu.cn ) / [Github](https://github.com/zjy109) 
